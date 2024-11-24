@@ -53,5 +53,5 @@ Validations - for example, token not exist: <br>
 
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732446192/hxqyvtatcddkmproqo0u.png)
 
-<b> Bonus </b> <br>
+<b> Bonus - a search functionality </b> <br>
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732447042/uhnlktdchu9qptxrplyo.png)
