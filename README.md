@@ -22,7 +22,7 @@ $ docker-compose up
 > You can change configuration (port, etc using env file)
 
 ## Endpoints
-<b> 1) Register: </b> <br>
+<b>Register: </b> <br>
 
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732442036/fbutyyetvbsg3ib6q89c.png)
 
