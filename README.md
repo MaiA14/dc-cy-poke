@@ -15,6 +15,9 @@
 $ docker-compose up
 ```
 
+> [!IMPORTANT]
+> You can change configuration (port, etc using env file)
+
 ## Endpoints
 <b> Register: </b> <br>
 
