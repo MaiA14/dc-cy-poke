@@ -34,12 +34,6 @@ Validations - for example, invalid email: <br>
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732442402/bekgnrhnxieayvtsbag3.png)
 
 
-<b> Get pokeomon: </b> <br>
-
-![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732442402/bekgnrhnxieayvtsbag3.png)
-
-
-
 <b> Delete pokeomon: </b> <br>
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732442659/rph1qcdenejt82tafyti.png)
 
