@@ -44,7 +44,7 @@ Validations - for example, invalid email: <br>
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732442659/rph1qcdenejt82tafyti.png)
 
 
-Validations - for example, token not exist: <br>
+Validations - for example, expired token: <br>
 ![Image of design](https://res.cloudinary.com/dtwqtpteb/image/upload/v1732442488/tn5v8njeljj1pl7aukv2.png)
 
 
