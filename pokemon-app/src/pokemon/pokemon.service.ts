@@ -60,7 +60,6 @@ export class PokemonService {
   async getAllPokemon(limit: number, offset: number, name?: string, type?: string) {
     let pokemonList: Pokemon[] = [];
 
-    // step 1: get from cache
     await this.addPokemonFromCache(offset, limit, pokemonList, name, type);
     limit -= pokemonList.length;
     if (limit > 0) {

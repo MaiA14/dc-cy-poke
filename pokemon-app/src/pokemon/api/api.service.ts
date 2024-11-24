@@ -1,4 +1,3 @@
-// pokemon-api.service.ts
 import { Inject, Injectable } from '@nestjs/common';
 import axios from 'axios';
 import { Pokemon } from '../../types/dtos/pokemon.entity';
